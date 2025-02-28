@@ -2,6 +2,10 @@
 
 A lightweight SQLite-inspired database implementation in C, built for educational purposes. This project demonstrates fundamental database concepts including B-trees, paging, and basic SQL operations.
 
+## Demo
+
+![Database Demo](assets/images/demo.gif)
+
 ## Features
 
 - Custom REPL (Read-Eval-Print Loop) interface
@@ -98,4 +102,4 @@ This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
-This project is inspired by the "Let's Build a Simple Database" tutorial series, implementing a SQLite clone from scratch in C. 
+This project is inspired by the ["Let's Build a Simple Database"](https://cstack.github.io/db_tutorial/) tutorial series by Connor Stack, implementing a SQLite clone from scratch in C. The tutorial provides an excellent step-by-step guide to understanding database internals by building one from the ground up. 
